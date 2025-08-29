@@ -11,6 +11,32 @@ Desarrollar una app **accesible, eficiente y escalable** que facilite la **inclu
 
 ---
 
+## 📝 Descripción de la problemática
+En la actualidad, los estudiantes con **necesidades educativas especiales** enfrentan múltiples barreras en el acceso a herramientas digitales inclusivas.  
+La mayoría de las aplicaciones educativas no cumplen con estándares internacionales de accesibilidad ni ofrecen interfaces adaptadas para usuarios con **discapacidad visual, auditiva o motora**.  
+
+Esto genera **exclusión tecnológica y desigualdad en el aprendizaje**, limitando las oportunidades educativas y sociales de este grupo.
+
+---
+
+## 💡 Descripción de la solución
+La solución propuesta es una aplicación móvil de **educación diferencial**, que:  
+- Integra **recursos accesibles** (lectores de pantalla, subtítulos automáticos, modos de alto contraste).  
+- Facilita **contenidos interactivos y adaptativos** para distintos estilos de aprendizaje.  
+- Permite a docentes y familias hacer seguimiento del **progreso individual de cada estudiante**.  
+- Asegura la **privacidad y seguridad de la información sensible** de los usuarios.  
+
+---
+
+## 👥 Reconocimiento del grupo de interés
+El público objetivo incluye:  
+- **Estudiantes con necesidades educativas especiales** (visuales, auditivas, motoras o cognitivas).  
+- **Docentes y profesionales de apoyo** en el ámbito educativo.  
+- **Familias y tutores**, quienes podrán dar seguimiento al proceso educativo.  
+- **Instituciones educativas**, que buscan implementar soluciones inclusivas y escalables.  
+
+---
+
 ## 🛠️ Stack propuesto
 - **Frontend:** React Native  
 - **Backend:** Spring Framework  
@@ -34,9 +60,17 @@ Desarrollar una app **accesible, eficiente y escalable** que facilite la **inclu
 ---
 
 ## ♿ Enfoque en Accesibilidad
-- El stack propuesto facilita la implementación de **estándares internacionales de accesibilidad** (WCAG, ADA).  
+- Implementación de **estándares internacionales de accesibilidad** (WCAG, ADA).  
 - **React Native** permite personalizar la interfaz para usuarios con discapacidades visuales, auditivas o motoras.  
 - **Spring + PostgreSQL** aseguran una **gestión eficiente y segura** de la información sensible de los usuarios.  
+
+---
+
+## 🌍 Responsabilidad social
+Este proyecto busca:  
+- **Reducir la brecha digital** para estudiantes con discapacidad.  
+- Promover la **inclusión educativa** a través de herramientas accesibles.  
+- Fortalecer la **responsabilidad social tecnológica** aplicando principios de ética profesional.  
 
 ---
 
@@ -44,8 +78,16 @@ Desarrollar una app **accesible, eficiente y escalable** que facilite la **inclu
 - **Francisco:** Líder técnico  
 - **Adolfo:** Backend  
 - **Billy:** Frontend  
+- **Andres:** Integración  
+
+---
+
+## 📂 Repositorio y documentación
+- **Repositorio de código:** [GitHub](https://github.com/NombreEquipo_Año)  
+- **Repositorio de documentación:** ClickUp (espacio habilitado para justificaciones técnicas y análisis de la problemática).  
 
 ---
 
 ## ✅ Conclusión
 La combinación de **React Native, Spring y PostgreSQL** es la opción más adecuada para garantizar una app **accesible, escalable y mantenible**, alineada con los objetivos de la **educación diferencial y la inclusión**.  
+Este proyecto contribuye directamente a la **responsabilidad social**, respondiendo a una problemática educativa real y generando un impacto positivo en la comunidad.  
